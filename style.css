@@ -10,10 +10,9 @@ body {
 
   width: 100%;
   height: 100vh;
+
+  margin: 0 auto;
 }
-
-
-
 
 button {
   padding: 16px 24px;
@@ -38,13 +37,6 @@ h1 dev {
   display: flex;
   align-items: center;
   gap: 12px;
-}
-
-body {
-  background-color: #09090a;
-  color: white;
-
-  height: 100vh;
 }
 
 .text {
